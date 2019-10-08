@@ -20,9 +20,16 @@ value to true otherwise false.
 3. In all the other channel/s you have activated bot commands, you can write “ff!last” and get the last updated 3 story.
 
 # DEPENDENCIES
-HtmlAgilityPack
-Newtonsoft.Json
-Discord.Net
+1. HtmlAgilityPack
+2. Newtonsoft.Json
+3. Discord.Net
 
 # SDK
 Microsoft.NETCore.App 2.1
+
+# Images from the Bot
+![ffstart](https://user-images.githubusercontent.com/17615607/66404229-b7684e80-e9f0-11e9-82e2-e480a9b22d94.PNG)
+
+![singleupdate](https://user-images.githubusercontent.com/17615607/66404226-b6cfb800-e9f0-11e9-8563-cea83435df26.PNG)
+
+![lastormultipleupdate](https://user-images.githubusercontent.com/17615607/66404225-b6372180-e9f0-11e9-9b4f-7a8a8fd113e6.PNG)
