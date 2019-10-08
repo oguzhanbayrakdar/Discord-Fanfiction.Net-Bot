@@ -1,0 +1,11 @@
+C:\Users\kkrog\source\repos\DiscordFFNetBot\DiscordFFNetBot\bin\Debug\netcoreapp2.1\DiscordFFNetBot.deps.json
+C:\Users\kkrog\source\repos\DiscordFFNetBot\DiscordFFNetBot\bin\Debug\netcoreapp2.1\DiscordFFNetBot.runtimeconfig.json
+C:\Users\kkrog\source\repos\DiscordFFNetBot\DiscordFFNetBot\bin\Debug\netcoreapp2.1\DiscordFFNetBot.runtimeconfig.dev.json
+C:\Users\kkrog\source\repos\DiscordFFNetBot\DiscordFFNetBot\bin\Debug\netcoreapp2.1\DiscordFFNetBot.dll
+C:\Users\kkrog\source\repos\DiscordFFNetBot\DiscordFFNetBot\obj\Debug\netcoreapp2.1\DiscordFFNetBot.csprojAssemblyReference.cache
+C:\Users\kkrog\source\repos\DiscordFFNetBot\DiscordFFNetBot\obj\Debug\netcoreapp2.1\DiscordFFNetBot.csproj.CoreCompileInputs.cache
+C:\Users\kkrog\source\repos\DiscordFFNetBot\DiscordFFNetBot\obj\Debug\netcoreapp2.1\DiscordFFNetBot.AssemblyInfoInputs.cache
+C:\Users\kkrog\source\repos\DiscordFFNetBot\DiscordFFNetBot\obj\Debug\netcoreapp2.1\DiscordFFNetBot.AssemblyInfo.cs
+C:\Users\kkrog\source\repos\DiscordFFNetBot\DiscordFFNetBot\bin\Debug\netcoreapp2.1\DiscordFFNetBot.pdb
+C:\Users\kkrog\source\repos\DiscordFFNetBot\DiscordFFNetBot\obj\Debug\netcoreapp2.1\DiscordFFNetBot.dll
+C:\Users\kkrog\source\repos\DiscordFFNetBot\DiscordFFNetBot\obj\Debug\netcoreapp2.1\DiscordFFNetBot.pdb
